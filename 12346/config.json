@@ -1,0 +1,20 @@
+{
+    "board": {
+        "top_left": [242, 290],
+        "bottom_right": [697, 745]
+    },
+    "blocks_area": {
+        "top_left": [130, 600],
+        "bottom_right": [430, 700]
+    },
+    "target_resolution": {
+        "width": 300,
+        "height": 430
+    },
+    "block_positions_manual": [
+        [327, 831],
+        [455, 829],
+        [614, 833]
+    ],
+    "block_offset_y": 463
+}
