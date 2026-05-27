@@ -1,1 +1,0 @@
-# Identify-and-solve-the-Block-Blast-game-through-photos.
